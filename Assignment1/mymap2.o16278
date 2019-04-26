@@ -1,0 +1,16 @@
+
+########################################################################
+#      Date:           Mon Apr 15 18:21:27 PDT 2019
+#    Job ID:           16278.v-qsvr-1.aidevcloud
+#      User:           u25867
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,walltime=06:00:00
+########################################################################
+
+WARNING: Not monitoring node memory since `psutil` is not installed. Install this with `pip install psutil` (or ray[debug]) to enable debugging of memory-related crashes.
+running map reduce with 2 cpus
+
+########################################################################
+# End of output for job 16278.v-qsvr-1.aidevcloud
+# Date: Mon Apr 15 18:21:30 PDT 2019
+########################################################################
+
